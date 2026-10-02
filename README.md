@@ -1,56 +1,92 @@
-<br/>
+# Najiib Arsyaq Rabbani
 
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=478CBF&center=true&vCenter=true&width=600&lines=Game+Developer+%7C+Godot+4+%2B+C%23;Building+Reminiscence+%E2%9A%94%EF%B8%8F;Turning+ideas+into+playable+worlds;Always+learning%2C+always+building" alt="Typing SVG" />
-</a>
+**Game Developer · Godot 4 + C# · Indonesia**
 
-<br/>
+Building games and software with a focus on clean architecture and thoughtful design.
 
-**A Story-Based 2D Pixel Art RPG**
-
-*Follow Krieger on his journey to rescue his childhood friend, Amari — no matter the cost.*
-
-<br/>
-
-<!-- Tech Badges -->
-[![Godot](https://img.shields.io/badge/Godot_4.x-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://godotengine.org/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-
-<br/>
-
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=EL-NAX&label=Profile%20Views&color=478CBF&style=for-the-badge)
-
-<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-EL--NAX-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EL-NAX)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/USERNAME)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:email@example.com)
 
 ---
 
-### 🎯 Navigation
+## About
 
-[**📖 About**](#-about-me) · [**🛠 Tech**](#-tech-stack) · [**🚀 Projects**](#-featured-projects) · [**📊 Stats**](#-github-stats) · [**🏆 Trophies**](#-trophies) · [**📫 Connect**](#-connect-with-me)
+I'm a developer focused on **2D game development** using **Godot Engine** and **C#**. I care about writing maintainable code, building systems that scale, and shipping things that work.
+
+Currently building **Reminiscence**, a story-driven RPG. Also exploring game design, AI behavior, and graphics programming.
+
+- **Focus:** Game Development, Systems Programming
+- **Interests:** Game Design, AI, Clean Architecture
+- **Open to:** Collaboration & Freelance
 
 ---
 
-</div>
+## Tech Stack
 
-## 👨‍💻 About Me
+**Languages**
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-```typescript
-const EL_NAX = {
-    name: "Najiib Arsyaq Rabbani",
-    role: "Game Developer",
-    location: "Indonesia 🇮🇩",
-    current_project: "Reminiscence",
-    languages: ["C#", "HTML", "CSS", "JavaScript"],
-    engines: ["Godot 4"],
-    interests: ["Game Design", "AI Behavior", "Systems Programming"],
-    currently_learning: ["Advanced Combat Systems", "Shaders", "Game Physics"],
-    available_for: ["Collaboration", "Freelance"],
-    motto: "Turning ideas into playable worlds."
-};
+**Game Development**
+
+![Godot](https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## Projects
+
+### Reminiscence
+*Story-driven 2D pixel art RPG built with Godot 4 and C#.*
+
+- Action combat system with dash, jump, and attack mechanics
+- Companion AI with pathing and reactive behavior
+- Interactive environment system (NPCs, items, dialogue)
+- Multi-surface footstep audio engine
+- Parallax background and layered rendering
+
+`Godot 4` `C#` `.NET` `Git LFS`
+
+[View Repository →](https://github.com/EL-NAX/Reminiscence)
+
+---
+
+### Portfolio
+*Personal website showcasing my work.*
+
+- Responsive layout, dark mode, smooth animations
+- Built with vanilla HTML, CSS, and JavaScript
+
+`HTML` `CSS` `JavaScript`
+
+[View Repository →](https://github.com/EL-NAX/portfolio)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EL-NAX&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EL-NAX&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160"/>
+</p>
+
+---
+
+## Contact
+
+Feel free to reach out for collaboration, freelance work, or just to talk about game development.
+
+- **Email:** email@example.com
+- **LinkedIn:** [linkedin.com/in/USERNAME](https://linkedin.com/in/USERNAME)
+- **Instagram:** [@USERNAME](https://instagram.com/USERNAME)
