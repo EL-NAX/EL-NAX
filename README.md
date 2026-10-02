@@ -1,86 +1,56 @@
-<div align="center">
+<br/>
 
-### 👋 Hi, I'm Najiib Arsyaq Rabbani
-
-**Game Developer · Godot 4 + C# · Building indie games from Indonesia 🇮🇩**
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=478CBF&center=true&vCenter=true&width=600&lines=Game+Developer+%7C+Godot+4+%2B+C%23;Building+Reminiscence+%E2%9A%94%EF%B8%8F;Turning+ideas+into+playable+worlds;Always+learning%2C+always+building" alt="Typing SVG" />
+</a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-EL--NAX-478CBF?style=flat-square&logo=github&logoColor=white)](https://github.com/EL-NAX/portfolio)
-[![Reminiscence](https://img.shields.io/badge/Reminiscence-In_Development-yellow?style=flat-square&logo=godot-engine&logoColor=white)](https://github.com/EL-NAX/Reminiscence)
+**A Story-Based 2D Pixel Art RPG**
+
+*Follow Krieger on his journey to rescue his childhood friend, Amari — no matter the cost.*
+
+<br/>
+
+<!-- Tech Badges -->
+[![Godot](https://img.shields.io/badge/Godot_4.x-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://godotengine.org/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+
+<br/>
+
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=EL-NAX&label=Profile%20Views&color=478CBF&style=for-the-badge)
+
+<br/>
+
+---
+
+### 🎯 Navigation
+
+[**📖 About**](#-about-me) · [**🛠 Tech**](#-tech-stack) · [**🚀 Projects**](#-featured-projects) · [**📊 Stats**](#-github-stats) · [**🏆 Trophies**](#-trophies) · [**📫 Connect**](#-connect-with-me)
+
+---
 
 </div>
 
----
+## 👨‍💻 About Me
 
-### 🎮 About Me
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🎯 Fokus di **2D game development** pakai **Godot 4** dan **C#**
-- ⚔️ Sedang bangun **Reminiscence** — story-based 2D pixel art RPG
-- 🌱 Belajar **game design**, **AI behavior**, dan **systems programming**
-- 💬 Terbuka untuk kolaborasi project indie
-
----
-
-### 🛠 Tech Stack
-
-<div align="center">
-
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-#### ⚔️ [Reminiscence](https://github.com/EL-NAX/Reminiscence)
-Story-based 2D pixel art RPG dengan combat system, companion AI, dan narasi emosional.
-
-**Stack:** Godot 4 · C#
-
-</td>
-<td width="50%">
-
-#### 🌐 [Portfolio](https://github.com/EL-NAX/portfolio)
-Personal portfolio website showcasing my work and projects.
-
-**Stack:** HTML · CSS · JS
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![EL-NAX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EL-NAX&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EL-NAX&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-### 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-EL--NAX-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EL-NAX)
-
-<br/><br/>
-
-*"Setiap niat jahat akan dijatuhi hukuman siksaan gaib yang menyiksa."*
-
-</div>
+```typescript
+const EL_NAX = {
+    name: "Najiib Arsyaq Rabbani",
+    role: "Game Developer",
+    location: "Indonesia 🇮🇩",
+    current_project: "Reminiscence",
+    languages: ["C#", "HTML", "CSS", "JavaScript"],
+    engines: ["Godot 4"],
+    interests: ["Game Design", "AI Behavior", "Systems Programming"],
+    currently_learning: ["Advanced Combat Systems", "Shaders", "Game Physics"],
+    available_for: ["Collaboration", "Freelance"],
+    motto: "Turning ideas into playable worlds."
+};
